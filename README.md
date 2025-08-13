@@ -17,3 +17,23 @@ The objective of this project is to design and develop an interactive Amazon Sal
 
 ## Dashboard Interaction
 - <a href ="https://github.com/Vishalyadavroy/Data-Analysis-Dashboard./blob/main/Screenshot%202025-08-06%20010141.png">View Dashboard</a>
+
+## Features:
+
+📊 Sales Overview: Monthly and yearly sales trends.
+💰 Revenue & Profit Analysis: Identify high-performing products and profitable categories.
+🛒 Order Insights: Track total orders, returns, and fulfillment performance.
+🌍 Geographic Analysis: Visualize sales by region/country.
+🔍 Product Performance: Compare top-selling and underperforming items.
+
+## Tools Used:
+
+- Power BI (Data Visualization & Dashboard)
+- Microsoft Excel (Data Cleaning & Preprocessing)
+
+## Use Cases:
+
+- Business performance monitoring
+- Identifying profitable products
+- Data-driven decision making
+
