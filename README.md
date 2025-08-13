@@ -37,3 +37,6 @@ The objective of this project is to design and develop an interactive Amazon Sal
 - Identifying profitable products
 - Data-driven decision making
 
+## Dashboard View 
+<img width="753" height="984" alt="Screenshot 2025-08-06 010141" src="https://github.com/user-attachments/assets/02800c92-2f30-4934-bade-a0379a8fb3ff" />
+
