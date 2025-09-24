@@ -24,7 +24,7 @@ The objective of this project is to design and develop an interactive Amazon Sal
 - 💰 Revenue & Profit Analysis: Identify high-performing products and profitable categories.
 - 🛒 Order Insights: Track total orders, returns, and fulfillment performance.
 - 🌍 Geographic Analysis: Visualize sales by region/country.
-- 🔍 Product Performance: Compare top-selling and underperforming items.
+- 🔍 Product Performance: Compare top-selling and underperforming items .
 
 ## Tools Used:
 
