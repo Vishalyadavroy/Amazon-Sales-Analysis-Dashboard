@@ -8,7 +8,7 @@ The objective of this project is to design and develop an interactive Amazon Sal
 - Total Sales Revenue – Overall revenue generated in a given period  
 - Total Orders – Count of completed customer purchases
 - Gross Profit – Revenue minus cost of goods sold (COGS)
-- Profit Margin (%) – Profitability percentage of total sales 
+- Profit Margin (%) – Profitability percentage of total sales     
 - Average Order Value (AOV) – Revenue per order
 - Top Selling Products – Products generating the highest sales
 - Sales by Category – Revenue breakdown by product category
