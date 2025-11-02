@@ -11,7 +11,7 @@ The objective of this project is to design and develop an interactive Amazon Sal
 - Profit Margin (%) – Profitability percentage of total sales     
 - Average Order Value (AOV) – Revenue per order
 - Top Selling Products – Products generating the highest sales
-- Sales by Category – Revenue breakdown by product category
+- Sales by Category – Revenue breakdown by product category 
 - Sales by Region – Geographic performance analysis
 - Monthly Growth Rate (%) – Sales trend over ti 
 
