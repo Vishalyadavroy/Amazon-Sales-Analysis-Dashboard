@@ -13,7 +13,7 @@ The objective of this project is to design and develop an interactive Amazon Sal
 - Top Selling Products – Products generating the highest sales
 - Sales by Category – Revenue breakdown by product category 
 - Sales by Region – Geographic performance analysis
-- Monthly Growth Rate (%) – Sales trend over ti 
+- Monthly Growth Rate (%) – Sales trend over ti  
 
 ## Dashboard Interaction
 - <a href ="https://github.com/Vishalyadavroy/Data-Analysis-Dashboard./blob/main/Screenshot%202025-08-06%20010141.png">View Dashboard</a>
